@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhotoBox</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="upload_to_drive">Upload to Drive</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="welcome">Welcome</string>
+    <string name="signed_in_as">Signed in as: %1$s</string>
+    <string name="photo_taken">Photo taken successfully</string>
+    <string name="upload_success">Photo uploaded to Google Drive</string>
+    <string name="upload_failed">Failed to upload photo</string>
+    <string name="sign_in_failed">Sign in failed</string>
+    <string name="camera_permission_required">Camera permission is required to take photos</string>
+    <string name="storage_permission_required">Storage permission is required to save photos</string>
+</resources>
